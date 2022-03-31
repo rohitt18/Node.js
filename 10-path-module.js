@@ -24,6 +24,5 @@ console.log(absolute);
 // and once in a while in our applications we need to provide that absolute path that's why)
 // it accepts a sequence of paths or path segments & resolves it into an absolute path
 // if you wonder why would we want that, remember our application is going to run in different environments 
-// so ofc the path to some kind of resource is going to be different in my computer in my local machine than for example in heroku 
-// hopefully it is clear!!
+// so ofc the path to some kind of resource is going to be different in my computer in my local machine than for example in heroku // hopefully it is clear!!
 
